@@ -27,7 +27,7 @@
 .logo{
     color: var(--text-color);
     font-size: 3rem;
-    font-weight: 600;
+    font-weight: 400;
     cursor: default;
 }
 span{
